@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Acess_mod\Acess_mod.csproj" />
+  </ItemGroup>
+
 </Project>
