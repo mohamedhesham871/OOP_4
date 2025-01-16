@@ -12,6 +12,6 @@ namespace OOP_4.compositon
         public required string UserEmail { get; set; }
 
         public decimal OrderTotal { get; set; }
-        public  required List<OrderItem> Items { get; set;
+        public required List<OrderItem> Items { get; set; }
     }
 }
